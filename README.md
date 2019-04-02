@@ -22,4 +22,3 @@ python main.py --batch-size 32 --num-epochs 50 -lr 0.001
 python main.py --inference-mode
 ```
 
-### Results
