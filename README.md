@@ -10,13 +10,13 @@
 - [TensorLayer](https://github.com/zsdonghao/tensorlayer) 1.11.1
 
 
-### Training
+### Data
 
-```
-python main.py --batch-size 32 --num-epochs 50 -lr 0.001
-```
+to run programm download data from 
+https://drive.google.com/drive/folders/1E-2yfUw59sWFaXO0p4SDPoy4MdGS2Yho?usp=sharing
+to root folder
 
-### Inference
+### Run
 
 ```
 python main.py --inference-mode
